@@ -1,0 +1,8 @@
+*.mp4
+*.webm
+
+
+# For Github file size compliance (sorry!) we don't include
+# the source here - it is linked in the README.
+#!RooftopCloudsH264.mp4
+!cut.mp4
